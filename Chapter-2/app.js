@@ -3,8 +3,9 @@
 
 //Question-02
 // var myName = "alishbaKhan";
+// console.log(myName);
 
-//Question-03
+// Question-03
 //  var message;
 //  var message = "Hello World";
 //   document.write("<b> Hello World </b>");
