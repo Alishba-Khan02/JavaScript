@@ -38,6 +38,6 @@
 // document.write("<b>Yah! I can write HTML content through JavaScript</b>");
 
 //Question-09
-// var anyThing ="$£&*^";
-// alert("$£&*^");
+// var symbol ="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+// alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”");
 
