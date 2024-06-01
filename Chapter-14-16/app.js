@@ -2,7 +2,7 @@
 // var students =[];
 
 //Question-02
-// var students = Array();
+// var students = new Array();
 
 //Question-03
 // var colors=["Red", "Yellow", "Blue", "Green"];
@@ -86,3 +86,37 @@
 // document.write('Array : '+'<br>'+array+'<br>');
 // var string=array.join(' ');
 // document.write('String : '+'<br>'+string);
+
+//Question-13
+// var device = [];
+// device.push("Keyboard ");
+// device.push(" Moues ");
+// device.push(" Printer ");
+// device.push(" Monitor");
+
+// while (device.length > 0) {
+//     var value = device.shift();
+//     console.log(value);
+// }
+
+// Question-14
+//  var devices = []
+// devices.push("Keyboard ");
+// devices.push(" Moues ");
+// devices.push(" Printer ");
+// devices.push(" Monitor ");
+
+// while (devices.length > 0) {
+//     var value = devices.pop();
+//     console.log(value);
+// }
+
+// Question-15
+// var phoneManu = ["Apple", "Samsung", "Motorola", "Nokia", "Sony and Haier"];
+// document.write("<select>");
+// document.write("<option>" + phoneManu[0]+ "<option>")
+// document.write("<option>" + phoneManu[1]+ "<option>")
+// document.write("<option>" + phoneManu[2]+ "<option>")
+// document.write("<option>" + phoneManu[3]+ "<option>")
+// document.write("<option>" + phoneManu[4]+ "<option>")
+// document.write("</select>")
